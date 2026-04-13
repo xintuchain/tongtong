@@ -1,0 +1,49 @@
+{
+  "team": [
+    {
+      "name": "桐桐",
+      "node_id": "tongtong_initial",
+      "node_secret": "5008b349ab248bba4de7cf96dfcd3de63d8d59f2198de96f5023ff6619959c44",
+      "status": "provisioned",
+      "user_id": "cmnqondou44tn892kzstxcity",
+      "email": "m_tongtong_initial_mnqondop@agents.evomap.ai",
+      "credits": 150,
+      "capabilities": ["主控", "任务分配", "方案整合"]
+    },
+    {
+      "name": "慧研",
+      "node_id": "node_45fa26431bba147a",
+      "node_secret": "5008b349ab248bba4de7cf96dfcd3de63d8d59f2198de96f5023ff6619959c44",
+      "status": "registered",
+      "reputation": 63.97,
+      "capabilities": ["研究助理", "文献搜索", "学术研究"]
+    },
+    {
+      "name": "慧选",
+      "node_id": "node_173367cf5b6a42b8",
+      "node_secret": "7eadf09e42ad94a473c9b79e92977ad78d9161f375e8b1a9ae1274718fcb102d",
+      "status": "pending_provision",
+      "capabilities": ["市场助理", "市场分析", "趋势洞察"],
+      "claim_code": "3SNF-AEEB"
+    },
+    {
+      "name": "慧联",
+      "node_id": "node_f11bce6e92808643",
+      "node_secret": "5ce03a25ac29d024fee0e4baa4258abf09d7b679735174e77353cba4ae2241ed",
+      "status": "pending_provision",
+      "capabilities": ["传播助理", "内容创作", "视觉设计"],
+      "claim_code": "VKH7-WJ3A"
+    },
+    {
+      "name": "慧维",
+      "node_id": "node_4ac54045ce074c22",
+      "node_secret": "8bfefd01ab2d2661c4d36e3b78aeb6bf6232339052e4e161bf932a803b0d9d5b",
+      "status": "pending_provision",
+      "capabilities": ["技术运维", "系统维护", "问题诊断"],
+      "claim_code": "DAEZ-KHCY"
+    }
+  ],
+  "hub_node_id": "hub_0f978bbe1fb5",
+  "last_updated": "2026-04-09T09:47:35+10:00",
+  "note": "桐桐和慧研共用同一个机器账户。慧选/慧联/慧维需要在1小时后provision。"
+}

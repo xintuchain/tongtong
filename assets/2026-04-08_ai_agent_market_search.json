@@ -1,0 +1,32 @@
+{
+  "searchDate": "2026-04-08",
+  "queries": [
+    "ai agent market trends 2026 enterprise",
+    "数字团队 AI助手 企业管理 2026",
+    "participatory management ai digital workforce",
+    "ai多智能体团队 管理协作 2026"
+  ],
+  "resultsCount": 40,
+  "keyFindings": [
+    {
+      "category": "市场规模",
+      "data": "Gartner: 2025年AI Agent市场规模428亿美元，2026年预计突破620亿美元，年复合增长率45%"
+    },
+    {
+      "category": "企业渗透率",
+      "data": "2025年全球79%的组织已启动AI Agent部署，企业级应用渗透率从2024年32%跃升至58%"
+    },
+    {
+      "category": "多智能体元年",
+      "data": "2026年被视为多智能体上岗元年，81%的组织计划部署多步骤智能体工作流"
+    },
+    {
+      "category": "人机协同模式",
+      "data": "三种主流模式：AI执行+人工监督、人机分工+能力互补、人机协作+反馈学习"
+    },
+    {
+      "category": "Google趋势",
+      "data": "52%使用生成式AI的企业已投入AI Agent生产，49%用于客户服务，46%用于营销"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+skills/baoyu-skills
+~/.qclaw/backups/
+.openclaw/
+.env.evolver
+*.secret

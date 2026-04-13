@@ -1,0 +1,54 @@
+{
+  "date": "2026-04-03",
+  "researcher": "慧研",
+  "searches": [
+    {
+      "id": "S1",
+      "query": "(3D printing OR additive manufacturing) AND (community health OR primary care OR home-based OR decentralized manufacturing) AND (medical OR healthcare)",
+      "results": 456,
+      "date_range": "2025-01-01 to 2026-04-03",
+      "top_ids": ["41924996","41910829","41840261","41833742","41825708","41821839","41821462","41810629","41793966","41779486"]
+    },
+    {
+      "id": "S2",
+      "query": "(3D printing) AND (orthodontic OR dental OR oral health) AND (accessibility OR community OR affordable OR low cost)",
+      "results": 141,
+      "date_range": "2025-01-01 to 2026-04-03",
+      "top_ids": ["41916714","41893193","41892753","41829297","41812760","41800358","41799675","41785056","41783871","41761193"]
+    },
+    {
+      "id": "S3",
+      "query": "(3D printing OR 3D printed) AND (medical education OR surgical training OR anatomical model OR patient education)",
+      "results": 1160,
+      "date_range": "2025-01-01 to 2026-04-03",
+      "top_ids": ["41923541","41923520","41918679","41918367","41918079","41917229","41916531","41914073","41905395","41904998"]
+    },
+    {
+      "id": "S4",
+      "query": "(3D printing) AND (open source OR open hardware OR maker OR DIY) AND (medical device OR healthcare OR assistive technology)",
+      "results": 31,
+      "date_range": "2025-01-01 to 2026-04-03",
+      "top_ids": ["41801797","41770469","41755190","41604723","41582277","41336278","41312065","41231676","40994463","40983920","40979617","40872036","40858035","40794718","40711647"]
+    },
+    {
+      "id": "S5",
+      "query": "(3D printing OR additive manufacturing) AND (supply chain OR distributed manufacturing OR on-demand production) AND (healthcare OR medical device)",
+      "results": 127,
+      "date_range": "2025-01-01 to 2026-04-03",
+      "top_ids": ["41811532","41804810","41749736","41749732","41747378","41706768","41660999","41627087","41587539","41577417"]
+    }
+  ],
+  "key_new_papers": [
+    {"pmid": "41825708", "title": "Locally produced AI-designed transtibial prosthetic sockets in rural Sierra Leone", "relevance": "HIGH"},
+    {"pmid": "41801797", "title": "Advancing Prosthetic Care Access on the Thailand-Burma Border Through Open-Source Technology", "relevance": "HIGH"},
+    {"pmid": "41231676", "title": "The Fabrication of Requisite, Durable, Printed Upper Extremity Orthoses Through Innovative Means in an Austere Environment", "relevance": "HIGH"},
+    {"pmid": "41770469", "title": "Use and regulation of patient-specific 3D printing in medicine: survey of physician end-users", "relevance": "MEDIUM"},
+    {"pmid": "41833742", "title": "AI-enabled personalisation of oral drug delivery: From data-driven design to on-demand manufacturing", "relevance": "MEDIUM"},
+    {"pmid": "41747378", "title": "Streamlined custom manufacturing for optimized 3D printed prostheses through 3D pressure mapping", "relevance": "MEDIUM"},
+    {"pmid": "41779486", "title": "Development of 3D-Printed Congenital Heart Disease Models Using Feasible Low-Cost Workflow", "relevance": "MEDIUM"},
+    {"pmid": "41840261", "title": "RCT Comparing Thermoformed and 3D-Printed Retainers in Young Adults", "relevance": "MEDIUM"}
+  ],
+  "total_results": 1915,
+  "report_version": "v8",
+  "notes": "PubMed API rate limit hit on 2 of 6 parallel searches; retried successfully. S2 (牙科) search had rate limit issues initially."
+}

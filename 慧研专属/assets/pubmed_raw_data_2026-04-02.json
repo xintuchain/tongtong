@@ -1,0 +1,119 @@
+{
+  "search_date": "2026-04-02",
+  "researcher": "慧研",
+  "topic": "3D打印医疗健康应用 - 家庭与社区视角",
+  "searches": [
+    {
+      "query": "3D printing healthcare patient outcomes 2023 2024",
+      "total_results": 9,
+      "ids": ["39117182", "39274089", "37639567", "38627819", "38159334", "39381655", "37200587", "38544462", "39612441"]
+    },
+    {
+      "query": "3D printing prosthetics low cost community",
+      "total_results": 6,
+      "ids": ["41505722", "37800426", "33587701", "32100630", "30366435", "29974821"]
+    },
+    {
+      "query": "additive manufacturing medical devices home use",
+      "total_results": 16,
+      "ids": ["41363222", "41066832", "41013090", "40732800", "39311939", "37986237"]
+    },
+    {
+      "query": "3D printing developing countries healthcare access",
+      "total_results": 8,
+      "ids": ["41314128", "41205682", "40997093", "39389643", "39281898", "35206116", "28470200", "26301132"]
+    },
+    {
+      "query": "3D printed drugs personalized medicine patient 2024",
+      "total_results": 42,
+      "ids": ["40348184", "39847282", "39667692", "39590572", "39577519", "39433693", "39399980", "39367585", "39327399", "39321900"]
+    },
+    {
+      "query": "3D printing emergency medical supply shortage community",
+      "total_results": 10,
+      "ids": ["37771964", "36234166", "34285229", "34230824", "36654661", "33899045", "38624444", "32838357", "32727050", "32518019"]
+    }
+  ],
+  "key_papers": [
+    {
+      "pmid": "39389643",
+      "year": 2024,
+      "journal": "Physical Medicine and Rehabilitation Clinics of North America",
+      "title": "Approaches to Prosthetic Limb Restoration in Resource-Limited Settings/Countries: 3 Dimensional Printing",
+      "relevance": "高 - 直接讨论资源匮乏地区的3D打印假肢应用",
+      "key_finding": "3D打印假肢可专门为资源匮乏环境设计，最小化耗材成本，同时优化在恶劣环境中的耐用性"
+    },
+    {
+      "pmid": "41205682",
+      "year": 2026,
+      "journal": "International Journal of Pharmaceutics",
+      "title": "Pharmaceutical 3D printing in Africa: A scoping review",
+      "relevance": "高 - 低中收入国家药物3D打印现状",
+      "key_finding": "非洲54个国家中仅2个有相关研究，存在巨大研究-实施差距，需要政策支持和资金"
+    },
+    {
+      "pmid": "37771964",
+      "year": 2023,
+      "journal": "Royal Society Open Science",
+      "title": "Maker communities and the COVID-19 pandemic: Thingiverse's response to supply shortages",
+      "relevance": "高 - 社区制造者在医疗危机中的作用",
+      "key_finding": "COVID-19期间maker社区通过Thingiverse等平台协作生产PPE，展示了分布式制造的社区潜力"
+    },
+    {
+      "pmid": "36234166",
+      "year": 2022,
+      "journal": "Materials (Basel)",
+      "title": "The Unprecedented Role of 3D Printing Technology in Fighting the COVID-19 Pandemic",
+      "relevance": "高 - 3D打印在公共卫生紧急事件中的社区应用",
+      "key_finding": "3D打印在COVID-19期间生产呼吸机零件、面罩、鼻咽拭子等，展示了快速响应能力"
+    },
+    {
+      "pmid": "37800426",
+      "year": 2023,
+      "journal": "Kathmandu University Medical Journal",
+      "title": "Outcome of 3D Printed Functional Prostheses for Children with Upper Limb Deficiency in Nepal",
+      "relevance": "高 - 低收入国家儿童假肢实际应用案例",
+      "key_finding": "尼泊尔儿童使用3D打印假手，提升自理能力，但需要定期维护"
+    },
+    {
+      "pmid": "41363222",
+      "year": 2025,
+      "journal": "Journal of Foot and Ankle Research",
+      "title": "Feasibility of 3D Printed Ankle-Foot Orthoses: Updated Systematic Review",
+      "relevance": "中高 - 踝足矫形器的可行性系统综述",
+      "key_finding": "3D打印踝足矫形器在神经系统疾病患者中具有可行性，但需要更多临床证据"
+    },
+    {
+      "pmid": "39274089",
+      "year": 2024,
+      "journal": "Polymers",
+      "title": "Application of 3D-Printed Bioinks in Chronic Wound Healing: A Scoping Review",
+      "relevance": "中 - 慢性伤口护理的3D生物打印",
+      "key_finding": "3D生物打印技术为糖尿病足溃疡、压疮等慢性伤口提供创新解决方案"
+    },
+    {
+      "pmid": "40348184",
+      "year": 2025,
+      "journal": "Journal of Pharmaceutical Sciences",
+      "title": "3D printing for personalized formulations: individual dosing strategies for propranolol hydrochloride tablets",
+      "relevance": "中 - 个性化药物剂量的3D打印",
+      "key_finding": "3D打印可实现个性化剂量策略，解决传统分药方法的局限性"
+    },
+    {
+      "pmid": "41013090",
+      "year": 2025,
+      "journal": "Sensors (Basel)",
+      "title": "3D-Printed Wearable Sensors for Shoulder Movement Planes Identification",
+      "relevance": "中 - 可穿戴传感器用于康复监测",
+      "key_finding": "3D打印可穿戴传感器可用于肩袖损伤患者的康复运动监测"
+    },
+    {
+      "pmid": "39281898",
+      "year": 2024,
+      "journal": "ACS Omega",
+      "title": "Making Healthcare Accessible: Microfluidics-Driven Biosensors Based on 3D Printing",
+      "relevance": "中 - 低成本诊断设备",
+      "key_finding": "3D打印微流控生物传感器可降低诊断设备成本，提高发展中国家医疗可及性"
+    }
+  ]
+}

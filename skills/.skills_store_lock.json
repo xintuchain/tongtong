@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "skills": {
+    "vision-sandbox": {
+      "name": "Vision Sandbox",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=vision-sandbox",
+      "source": "skillhub",
+      "version": "1.1.0"
+    },
+    "proactive-agent": {
+      "name": "Proactive Agent",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=proactive-agent",
+      "source": "skillhub",
+      "version": "3.1.0"
+    },
+    "humanize-ai-text": {
+      "name": "Humanize AI text",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=humanize-ai-text",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "skill-vetter": {
+      "name": "Skill Vetter",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=skill-vetter",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "self-improving-agent": {
+      "name": "self-improving-agent",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=self-improving-agent",
+      "source": "skillhub",
+      "version": "1.0.11"
+    },
+    "summarize": {
+      "name": "Summarize",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=summarize",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "tavily": {
+      "name": "Tavily AI Search",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=tavily",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "agent-browser": {
+      "name": "Agent Browser",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=agent-browser",
+      "source": "skillhub",
+      "version": "0.2.0"
+    },
+    "desktop-control": {
+      "name": "Desktop Control",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=desktop-control",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "skill-creator": {
+      "name": "Skill Creator",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=skill-creator",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "qmd-memory": {
+      "name": "QMD Memory",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=qmd-memory",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "memory-hygiene": {
+      "name": "Memory Hygiene",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=memory-hygiene",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "teamwork": {
+      "name": "TeamWork",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=teamwork",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "team-builder": {
+      "name": "Team Builder",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=team-builder",
+      "source": "skillhub",
+      "version": "1.0.24"
+    },
+    "team-dev": {
+      "name": "Dev Team",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=team-dev",
+      "source": "skillhub",
+      "version": "0.1.4"
+    },
+    "openclaw-whisperer": {
+      "name": "Openclaw Whisperer",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=openclaw-whisperer",
+      "source": "skillhub",
+      "version": "1.2.0"
+    },
+    "skill-feed": {
+      "name": "Skill Feed",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=skill-feed",
+      "source": "skillhub",
+      "version": "0.2.1"
+    },
+    "multi-search-engine": {
+      "name": "Multi Search Engine",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=multi-search-engine",
+      "source": "skillhub",
+      "version": "2.0.1"
+    },
+    "frontend-design": {
+      "name": "Frontend Design",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=frontend-design",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "pdf": {
+      "name": "Pdf",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=pdf",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "imap-smtp-email": {
+      "name": "imap-smtp-email",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=imap-smtp-email",
+      "source": "skillhub",
+      "version": "0.0.10"
+    },
+    "email-skill": {
+      "name": "Email",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=email-skill",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "agent-reach": {
+      "name": "Agent Reach",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=agent-reach",
+      "source": "skillhub",
+      "version": "1.1.0"
+    },
+    "defuddle": {
+      "name": "defuddle-web-cleaner",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=defuddle",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "paper-parse": {
+      "name": "Paper Parse",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=paper-parse",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "cognitive-memory": {
+      "name": "Cognitive Memory",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=cognitive-memory",
+      "source": "skillhub",
+      "version": "1.0.8"
+    },
+    "thinking-partner": {
+      "name": "Thinking Partner",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=thinking-partner",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "elicitation": {
+      "name": "Elicitation - how to talk with humans and ask them questions?",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=elicitation",
+      "source": "skillhub",
+      "version": "1.0.4"
+    },
+    "literature-search": {
+      "name": "literature-search",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=literature-search",
+      "source": "skillhub",
+      "version": "1.0.3"
+    },
+    "literature-review": {
+      "name": "Literature Review",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=literature-review",
+      "source": "skillhub",
+      "version": "1.2.0"
+    },
+    "paper-parse-figures": {
+      "name": "Paper Parse",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=paper-parse-figures",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "clawdbot-logs": {
+      "name": "Clawdbot Logs",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=clawdbot-logs",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "system-info": {
+      "name": "System Info",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=system-info",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "capability-evolver": {
+      "name": "Capability Evolver",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=capability-evolver",
+      "source": "skillhub",
+      "version": "1.31.0"
+    },
+    "openclaw-watchdog": {
+      "name": "OpenClaw Watch Dog",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=openclaw-watchdog",
+      "source": "skillhub",
+      "version": "1.3.0"
+    },
+    "openclaw-troubleshooting": {
+      "name": "OpenClaw故障排除工具",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=openclaw-troubleshooting",
+      "source": "skillhub",
+      "version": "1.1.0"
+    },
+    "planning-with-files": {
+      "name": "Planning with files",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=planning-with-files",
+      "source": "skillhub",
+      "version": "2.26.1"
+    }
+  }
+}

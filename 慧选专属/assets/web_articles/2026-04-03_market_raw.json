@@ -1,0 +1,61 @@
+{
+  "date": "2026-04-03",
+  "collector": "慧选",
+  "sources": [
+    {
+      "source": "财联社电报 (cls.cn/telegraph)",
+      "fetched_at": "2026-04-02T23:06:13Z",
+      "status": "success",
+      "key_data_points": 38,
+      "highlights": [
+        "WTI原油$111.54 (+11.41%), 布伦特$109.03 (+7.78%)",
+        "现货黄金$4677.1 (-1.71%)",
+        "特朗普威胁加大打击伊朗",
+        "伊朗打击甲骨文/亚马逊数据中心",
+        "SpaceX IPO估值$2万亿",
+        "美国对进口药加征100%关税"
+      ]
+    },
+    {
+      "source": "BBC中文 (bbc.com/zhongwen/simp)",
+      "fetched_at": "2026-04-02T23:06:33Z",
+      "status": "success",
+      "key_articles": [
+        "中国五点计划调解伊朗战争",
+        "特朗普演讲未能安抚市场",
+        "特朗普再提退出北约",
+        "习特会前奏与美中台角力",
+        "油价暴涨与全球经济风险"
+      ]
+    },
+    {
+      "source": "东方财富 (eastmoney.com)",
+      "fetched_at": "2026-04-02T23:06:21Z",
+      "status": "partial",
+      "key_data": [
+        "融资净买入: 天孚通信+8.97亿, 阳光电源+6.96亿",
+        "美国ISM制造业52.7",
+        "年报季报67家"
+      ]
+    },
+    {
+      "source": "新浪财经 (finance.sina.com.cn)",
+      "fetched_at": "2026-04-02T23:06:12Z",
+      "status": "limited",
+      "note": "需JS渲染，仅获取到版权信息"
+    },
+    {
+      "source": "华尔街见闻 (wallstreetcn.com)",
+      "fetched_at": "2026-04-02T23:06:13Z",
+      "status": "limited",
+      "note": "需JS渲染，无文本内容"
+    },
+    {
+      "source": "Investing.com",
+      "fetched_at": "2026-04-02T23:06:21Z",
+      "status": "limited",
+      "note": "需JS渲染"
+    }
+  ],
+  "search_tool_issue": "Brave Search API key missing, fell back to web_fetch"
+}

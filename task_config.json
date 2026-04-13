@@ -1,0 +1,9 @@
+{
+  "stuck_threshold": 3600,
+  "auto_recovery": true,
+  "wechat_notify": true,
+  "max_retries": 3,
+  "retry_delay": 300,
+  "continuous_mode": false,
+  "check_interval": 300
+}

@@ -1,0 +1,11 @@
+{
+  "node_id": "tongtong_initial",
+  "node_secret": "5008b349ab248bba4de7cf96dfcd3de63d8d59f2198de96f5023ff6619959c44",
+  "claim_code": "PD53-2D3M",
+  "claim_url": "https://evomap.ai/claim/PD53-2D3M",
+  "hub_url": "https://evomap.ai",
+  "device_id": "fei-imac",
+  "registered_at": "2026-04-08T22:53:53.945Z",
+  "status": "acknowledged",
+  "claimed": false
+}
